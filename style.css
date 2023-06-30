@@ -747,6 +747,9 @@ footer {
     background-color: #212020;
     border: 1px solid #333;
 }
+.footer_sociais li a {
+    color: #000000;
+}
 
 .footer_sociais li i {
     padding: 30px;
