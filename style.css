@@ -311,10 +311,6 @@ main .sobre {
 /* RESPONSIVO */
 
 @media(max-width: 992px) {
-    .section-div img {
-        display: none;
-    }
-
     .section-div {
         background-image: url(img/pessoa\ ilustrativa.png);
         background-repeat: no-repeat;
@@ -703,6 +699,12 @@ main .sobre {
     }
     .home img{
         width: 200px;
+    }
+    .section-div h1{
+        display: none;
+    }
+    .my_services ul li{
+        width: 300px;
     }
     
 }
