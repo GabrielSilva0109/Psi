@@ -697,6 +697,8 @@ main .sobre {
         display: flex;
         justify-content: center;
     }
+
+    
 }
 
 .projects_armazenamento ul li.ativo {
