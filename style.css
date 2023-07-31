@@ -698,6 +698,12 @@ main .sobre {
         justify-content: center;
     }
 
+    .home{
+        display: flex;
+    }
+    .home img{
+        width: 200px;
+    }
     
 }
 
