@@ -705,6 +705,7 @@ main .sobre {
     }
     .my_services ul li{
         width: 300px;
+        height: 300px;
     }
     
 }
