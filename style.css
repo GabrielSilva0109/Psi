@@ -688,7 +688,16 @@ main .sobre {
     height: 100%;
 }
 
+@media (max-width: 800px) {
+    .projects ul{
+        display: block;
+    }
 
+    .project_models2{
+        display: flex;
+        justify-content: center;
+    }
+}
 
 .projects_armazenamento ul li.ativo {
     display: block;
